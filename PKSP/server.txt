@@ -1,0 +1,2 @@
+java  \pongServer\out\production\pongServer\com\bramble Main
+pause
